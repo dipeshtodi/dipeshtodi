@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @dipeshtodi
 - 👀 I’m interested in ...Technology
-- 🌱 I’m currently learning C language
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning Web Development
+- 💞️ I’m looking to collaborate on ...Real-life Projects
 - 📫 How to reach me ...todidipesh73@gmail.com
 
 <!---
