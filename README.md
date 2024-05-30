@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @dipeshtodi
+- 👋 Hi, I’m Dipesh Todi
 - 👀 I’m interested in ...Technology
 - 🌱 I’m currently learning Web Development & Data Analytics
 - 💞️ I’m looking to collaborate on ...Real-life Projects
